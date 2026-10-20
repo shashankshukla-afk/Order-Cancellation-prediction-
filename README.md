@@ -30,6 +30,9 @@ docker run -p 8501:8501 order-cancellation-app
 
 Open "http://localhost:8501" in your browser.
 
+Direct app link:
+https://order-cancellation-pred.streamlit.app/
+
 Model
 
 The application uses a trained XGBoost model for predictions.
